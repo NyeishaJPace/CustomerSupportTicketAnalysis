@@ -34,9 +34,9 @@ This project analyzes customer support tickets using a dataset retrieved from Ka
 
 - Example insights:
 
-  - "Refund requests have the highest 'Very Poor' satisfaction ratings."
+  - Refund requests have the highest 'Very Poor' satisfaction ratings.
 
-  - "Phone support leads to lower customer satisfaction compared to chat."
+  - Phone support leads to lower customer satisfaction compared to chat.
 
 # 📊 Key Findings & Business Recommendations
 
